@@ -18,13 +18,13 @@ main(){
     print(x2);
 
     //Dynamic
-    print("Ejercicio 3:");
+    /*print("Ejercicio 3:");
     dynamic myFirstName = "Melvin";
 
     //Const and Final
     print("Ejercicio 4:");
     const String fullName = "Melvin Ernesto";
-    final String nickName = "Mel";
+    final String nickName = "Mel";*/
 
     //Declaring and not using
     print("Ejercicio 5:");
