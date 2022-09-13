@@ -10,7 +10,4 @@ void main(){
     print(x.name);
 
     print(X.age);
-
-    var y = X('Ernesto');
-    print(x.name);
 }
