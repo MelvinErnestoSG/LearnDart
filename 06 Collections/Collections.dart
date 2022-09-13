@@ -9,7 +9,7 @@ main(){
     }
 
     //print("Ejercicio 2 List:");
-    var names2 = names;
+    //var names2 = names;
     names[1] = 'Mark';
     
     for(var name2 in names) {
@@ -17,7 +17,7 @@ main(){
     }
 
     //print("Ejercicio 3 List:");
-    var names3 = [...names];
+    //var names3 = [...names];
     names[1] = 'Marcus';
     
     for(var name3 in names) {
